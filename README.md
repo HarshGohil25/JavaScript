@@ -1,2 +1,2 @@
 # JavaScript
-a repo JavaScript practice
+a repo for JavaScript practice
